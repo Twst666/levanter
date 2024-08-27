@@ -32,7 +32,7 @@ module.exports = {
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
   HEROKU_API_KEY: process.env.HEROKU_API_KEY,
   BRANCH: 'master',
-  STICKER_PACKNAME: process.env.STICKER_PACKNAME || '⺀𑁍 𝑺 𝚨 𝜝 𝜜 𝜞 𝜤  ▸ᝃ〔🧃〕
+  STICKER_PACKNAME: process.env.STICKER_PACKNAME || '⺀𑁍 𝑺 𝚨 𝜝 𝜜 𝜞 𝜤  ▸ᝃ〔🧃〕;
 
 〝 ┊𝚻ʜᴇ 𝐌ᴏᴏɴ 𝐈s 𝚩ᴇᴜᴛɪғᴜʟ ...🌝
 〝 ┊
